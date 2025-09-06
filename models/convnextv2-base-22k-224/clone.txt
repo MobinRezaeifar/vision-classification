@@ -1,3 +1,0 @@
-git lfs install
-
-git clone https://huggingface.co/facebook/convnextv2-base-22k-224
